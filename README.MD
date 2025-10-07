@@ -23,7 +23,7 @@ Enjoy discovering new anime tailored to your tastes!
 
 ## Getting Started
 
-<a href="https://marjg-anime-recommendation-engine.hf.space/" target="_blank">Here is the link to the app</a>
+<a href="https://lyx51-anime-recommandation-streamlit.hf.space/" target="_blank">Here is the link to the app</a>
 
 ### Dependencies
 
@@ -35,7 +35,7 @@ For local use :
 ### Installing and execute
 
 For running the app in local  :
-* `git clone https://github.com/qxzjy/anime-recommendation-engine.git`
+* `git clone https://github.com/LyXoR51/Anime_recommandation_engine.git`
 * go inside anime-recommendation-engine
 * add your MISTRAL_API_KEY in your environnement variable or export it : `export MISTRAL_API_KEY=your_key`
 
