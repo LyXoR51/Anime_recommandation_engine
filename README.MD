@@ -2,6 +2,8 @@
 
 Welcome to our Data Science & Engineering fullstack project !
 
+<a href="https://lyx51-anime-recommandation-streamlit.hf.space/" target="_blank">Here is the link to the app</a>
+
 ## Description
 
 This app provides personalized anime recommendations using three main approaches:
@@ -22,8 +24,6 @@ Also in the app :
 Enjoy discovering new anime tailored to your tastes!
 
 ## Getting Started
-
-<a href="https://lyx51-anime-recommandation-streamlit.hf.space/" target="_blank">Here is the link to the app</a>
 
 ### Dependencies
 
