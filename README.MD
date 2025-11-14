@@ -1,6 +1,8 @@
 # Anime recommendation engine 🏯
 
-Welcome to our Data Science & Engineering fullstack project !
+MyAnimeList is an anime-focused community platform where users can browse titles, rate them, write reviews, and manage watchlists.
+With about 47,000 registered users and millions of visitors, the site aims to improve engagement by offering personalized features.
+This app delivers custom anime recommendations using NLP, along with other features described below.
 
 <a href="https://lyx51-anime-recommandation-streamlit.hf.space/" target="_blank">Here is the link to the app</a>
 
@@ -49,8 +51,3 @@ With local docker image:
 ## Authors
 
 By [@Marjorie](https://github.com/Marjorie-J), [@Antoine](https://github.com/AntOG96), [@Maxime](https://github.com/qxzjy) and [@Florent](https://github.com/LyXoR51)
-
-## Version History
-
-* 0.1
-    * Initial Release
